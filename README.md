@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  height="190px"/>
-  <img src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47zyie1ewjll81b9g001lt86u6mudw7azs9oyi4p91&rid=giphy.gif&ct=g" width="33%"/>
+  <img src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47zyie1ewjll81b9g001lt86u6mudw7azs9oyi4p91&rid=giphy.gif&ct=g" width="33%"     height="190px"/>
   <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  height="190px"/>
   
 </div>
